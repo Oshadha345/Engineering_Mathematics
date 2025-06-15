@@ -7,8 +7,8 @@
 <p align="center">
     <a href="https://choosealicense.com/licenses/mit/"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="MIT License"></a>
     <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square" alt="Contributions Welcome"></a>
-    <a href="https://github.com/username/Engineering_Mathematics/stargazers"><img src="https://img.shields.io/github/stars/username/Engineering_Mathematics?style=social" alt="GitHub stars"></a>
-    <a href="https://github.com/username/Engineering_Mathematics/network/members"><img src="https://img.shields.io/github/forks/username/Engineering_Mathematics?style=social" alt="GitHub forks"></a>
+    <a href="https://github.com/Oshadha345/Engineering_Mathematics/stargazers"><img src="https://img.shields.io/github/stars/Oshadha345/Engineering_Mathematics?style=social" alt="GitHub stars"></a>
+    <a href="https://github.com/Oshadha345/Engineering_Mathematics/network/members"><img src="https://img.shields.io/github/forks/Oshadha345/Engineering_Mathematics?style=social" alt="GitHub forks"></a>
 </p>
 
 <p align="center">
