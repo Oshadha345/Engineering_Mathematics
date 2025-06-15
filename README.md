@@ -141,5 +141,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <p align="center">
     <b><i>"Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding." </i></b>
+</p>
+<p align="center">
     <b><i>William Paul Thurston</i></b>
 </p>
