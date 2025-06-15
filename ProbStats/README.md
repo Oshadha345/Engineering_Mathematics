@@ -1,96 +1,93 @@
-# Probability and Statistics
+# 🎲 Probability and Statistics 📊
+
+> “The best thing about being a statistician is that you get to play in everyone’s backyard.”  
+> — John Tukey
 
 ![Probability](https://img.shields.io/badge/Math-Probability-orange)
 ![Statistics](https://img.shields.io/badge/Math-Statistics-blue)
 ![Progress](https://img.shields.io/badge/Status-In_Progress-yellow)
 
+---
+
 ## 📖 Topics Covered
 
-### 1. Probability, Random Variables, Distributions and Moments
-- Concepts of Probability, Sample space and Events
-- Random variables
-- Probability distributions
-- Cumulative distribution function (CDF)
-- Expected value of a random variable
-- Variance of a random variable
-- Moments of a random variable
+### 1️⃣ Probability, Random Variables, Distributions & Moments
+- 🎯 Concepts of Probability, Sample Space & Events
+- 🔢 Random Variables
+- 📈 Probability Distributions
+- 📊 Cumulative Distribution Function (CDF)
+- 🧮 Expected Value of a Random Variable
+- 📏 Variance of a Random Variable
+- 🧠 Moments of a Random Variable
 
-### 2. Discrete Probability Distributions
-- Discrete uniform distribution
-- Binomial distribution
-- Poisson distribution
-- Geometric distribution
-- Negative Binomial distribution
-- Hypergeometric distribution
+### 2️⃣ Discrete Probability Distributions
+- 🎲 Discrete Uniform Distribution
+- 🟦 Binomial Distribution
+- 🔔 Poisson Distribution
+- 🟩 Geometric Distribution
+- 🟨 Negative Binomial Distribution
+- 🟧 Hypergeometric Distribution
 
-### 3. Continuous Probability Distributions
-- Continuous Uniform Distribution
-- Exponential distribution
-- Normal distribution (Gaussian distribution)
-  - Standard normal random variable
-  - Calculating probability with normal random variables
-  - Sums and multiples of independent Normal random variables
-  - Normal Approximations to Binomial and Poisson Distributions
-- Other continuous distributions
-  - Weibull distribution
-  - Erlang and Gamma distributions
-  - Chi-squared distribution
-  - t-Distribution
-- Moment generating function
+### 3️⃣ Continuous Probability Distributions
+- 🟪 Continuous Uniform Distribution
+- ⏳ Exponential Distribution
+- 🟫 Normal Distribution (Gaussian)
+    - 🟦 Standard Normal Random Variable
+    - 📐 Calculating Probability with Normal Random Variables
+    - ➕ Sums & Multiples of Independent Normal Random Variables
+    - 🔄 Normal Approximations to Binomial & Poisson Distributions
+- 🧩 Other Continuous Distributions
+    - 🟦 Weibull Distribution
+    - 🟧 Erlang & Gamma Distributions
+    - 🟥 Chi-squared Distribution
+    - 🟨 t-Distribution
+- ⚡ Moment Generating Function
 
-### 4. Sampling Distributions
-- Sampling distribution of sample mean
-- Central limit theorem
-- Sampling distribution of sample variance
+### 4️⃣ Sampling Distributions
+- 🧪 Sampling Distribution of Sample Mean
+- 🌐 Central Limit Theorem
+- 📏 Sampling Distribution of Sample Variance
 
-### 5. Statistical Inference
-- Point estimation
-- Confidence intervals
-- Hypothesis testing
+### 5️⃣ Statistical Inference
+- 🎯 Point Estimation
+- 📏 Confidence Intervals
+- ❓ Hypothesis Testing
+
+---
 
 ## 🚀 Mini-Project Ideas
 
-1. **Interactive Probability Distribution Explorer**
-   - Visualize probability distributions with adjustable parameters
-   - Calculate and display probabilities for different regions
-   - Compare multiple distributions
+1. **Interactive Probability Distribution Explorer**  
+     🎛️ Visualize distributions, adjust parameters, compare multiple distributions
 
-2. **Monte Carlo Simulation Toolkit**
-   - Simulation of random processes
-   - Law of large numbers demonstration
-   - Estimation of complex probabilities
-   - Integration using Monte Carlo methods
+2. **Monte Carlo Simulation Toolkit**  
+     🎲 Simulate random processes, demonstrate law of large numbers, estimate probabilities
 
-3. **Hypothesis Testing Interactive Tool**
-   - Visual explanation of hypothesis testing
-   - P-value calculation and interpretation
-   - Type I and Type II error visualization
-   - Power analysis
+3. **Hypothesis Testing Interactive Tool**  
+     🧪 Visual explanations, p-value calculation, error visualization, power analysis
 
-4. **Statistical Inference Dashboard**
-   - Confidence interval calculation and visualization
-   - Bootstrap method implementation
-   - Sample size determination
-   - Comparison of different estimators
+4. **Statistical Inference Dashboard**  
+     📊 Confidence intervals, bootstrap methods, sample size determination, estimator comparison
 
-5. **Applied Statistics Projects**
-   - A/B testing simulator
-   - Anomaly detection system
-   - Time series analysis and forecasting
-   - Bayesian inference demonstration
+5. **Applied Statistics Projects**  
+     🧑‍🔬 A/B testing, anomaly detection, time series analysis, Bayesian inference
+
+---
 
 ## 💻 Implementation Resources
 
 - **Languages/Libraries**:
-  - Python with NumPy, SciPy, Pandas, Matplotlib, Seaborn
-  - R for statistical analysis
-  - JavaScript with D3.js for interactive visualizations
+    - 🐍 Python (NumPy, SciPy, Pandas, Matplotlib, Seaborn)
+    - 📊 R for statistical analysis
+    - 🌐 JavaScript (D3.js) for interactive visualizations
 
 - **Tutorial References**:
-  - [Introduction to Probability (Blitzstein & Hwang)](https://projects.iq.harvard.edu/stat110/home)
-  - [Statistical Rethinking (McElreath)](https://xcelab.net/rm/statistical-rethinking/)
-  - [Think Stats (Downey)](https://greenteapress.com/wp/think-stats-2e/)
-  - [Seeing Theory](https://seeing-theory.brown.edu/)
+    - [Introduction to Probability (Blitzstein & Hwang)](https://projects.iq.harvard.edu/stat110/home)
+    - [Statistical Rethinking (McElreath)](https://xcelab.net/rm/statistical-rethinking/)
+    - [Think Stats (Downey)](https://greenteapress.com/wp/think-stats-2e/)
+    - [Seeing Theory](https://seeing-theory.brown.edu/)
+
+---
 
 ## 📋 Project Structure
 
@@ -102,16 +99,20 @@ ProbStats/
 │   ├── central_limit_theorem/
 │   └── hypothesis_testing/
 └── projects/
-    ├── monte_carlo_simulations/
-    ├── statistical_inference/
-    ├── bayesian_methods/
-    └── applied_statistics/
+        ├── monte_carlo_simulations/
+        ├── statistical_inference/
+        ├── bayesian_methods/
+        └── applied_statistics/
 ```
 
-## 🔍 Learning Outcomes
+---
 
-- Understand fundamental probability concepts
-- Apply appropriate statistical techniques to analyze data
-- Develop statistical intuition through simulation and visualization
-- Perform hypothesis testing and construct confidence intervals
+## 🎯 Learning Outcomes
+
+- Grasp fundamental probability concepts
+- Apply statistical techniques to analyze data
+- Build intuition through simulation & visualization
+- Perform hypothesis testing & construct confidence intervals
 - Make data-driven decisions under uncertainty
+
+---
