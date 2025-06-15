@@ -1,39 +1,39 @@
-# Engineering Mathematics
+<p align="center">
+    <img src="https://img.shields.io/badge/Engineering%20Mathematics-💻%20📐%20🧮%20🚀-purple?style=for-the-badge" alt="Engineering Mathematics" />
+</p>
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
-[![GitHub stars](https://img.shields.io/github/stars/username/Engineering_Mathematics?style=social)](https://github.com/username/Engineering_Mathematics/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/username/Engineering_Mathematics?style=social)](https://github.com/username/Engineering_Mathematics/network/members)
+<h1 align="center">🚀 Engineering Mathematics 🚀</h1>
 
-An interactive exploration of mathematical concepts through code. This repository contains notes, visualizations, and programming projects that bring engineering mathematics to life.
+<p align="center">
+    <a href="https://choosealicense.com/licenses/mit/"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="MIT License"></a>
+    <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square" alt="Contributions Welcome"></a>
+    <a href="https://github.com/username/Engineering_Mathematics/stargazers"><img src="https://img.shields.io/github/stars/username/Engineering_Mathematics?style=social" alt="GitHub stars"></a>
+    <a href="https://github.com/username/Engineering_Mathematics/network/members"><img src="https://img.shields.io/github/forks/username/Engineering_Mathematics?style=social" alt="GitHub forks"></a>
+</p>
+
+<p align="center">
+    <i>An interactive exploration of mathematical concepts through code.<br>
+    Notes, visualizations, and programming projects that bring engineering mathematics to life.</i>
+</p>
 
 ---
 
 ## 📚 Modules Overview
 
-### 1. [Calculus 1](./Calculus1/)
-Foundational concepts in calculus including coordinate systems, sequences and series, integration applications, and multi-variable differentiation.
-
-### 2. [Linear Algebra](./LinearAlgebra/)
-Comprehensive exploration of linear systems, matrices, vector spaces, and transformations.
-
-### 3. [Complex Numbers](./ComplexNumbers/)
-Understanding complex arithmetic, Euler's formula, and applications.
-
-### 4. [Ordinary Differential Equations](./ODE/)
-Techniques for solving and understanding differential equations.
-
-### 5. [Probability and Statistics](./ProbStats/)
-Fundamental concepts in probability theory and statistical analysis.
-
-### 6. [Multivariable Calculus](./MultivariableCalculus/)
-Advanced calculus concepts in multiple dimensions.
+| #  | Module                                   | Description                                                                 |
+|----|------------------------------------------|-----------------------------------------------------------------------------|
+| 1️⃣ | [Calculus 1](./Calculus1/)              | Foundational concepts in calculus including coordinate systems, sequences and series, integration applications, and multi-variable differentiation. |
+| 2️⃣ | [Linear Algebra](./LinearAlgebra/)      | Comprehensive exploration of linear systems, matrices, vector spaces, and transformations. |
+| 3️⃣ | [Complex Numbers](./ComplexNumbers/)    | Understanding complex arithmetic, Euler's formula, and applications.         |
+| 4️⃣ | [Ordinary Differential Equations](./ODE/)| Techniques for solving and understanding differential equations.             |
+| 5️⃣ | [Probability and Statistics](./ProbStats/)| Fundamental concepts in probability theory and statistical analysis.         |
+| 6️⃣ | [Multivariable Calculus](./MultivariableCalculus/)| Advanced calculus concepts in multiple dimensions.                           |
 
 ---
 
 ## 🛠️ Project Structure
 
-```
+```text
 Engineering_Mathematics/
 ├── Calculus1/
 │   ├── notes/
@@ -56,9 +56,9 @@ Engineering_Mathematics/
 │   ├── visualizations/
 │   └── projects/
 └── MultivariableCalculus/
-    ├── notes/
-    ├── visualizations/
-    └── projects/
+        ├── notes/
+        ├── visualizations/
+        └── projects/
 ```
 
 ---
@@ -81,16 +81,16 @@ jupyter notebook
 
 ---
 
-
 ## 🧰 Common Tools & Libraries
 
-- **Python**: Primary programming language
-- **NumPy/SciPy**: Scientific computing
-- **Matplotlib/Seaborn/Plotly**: Data visualization
-- **SymPy**: Symbolic mathematics
-- **Jupyter**: Interactive notebooks
-- **MATLAB/Octave**: For certain specialized simulations
-
+| 🛠️ Tool/Library         | 💡 Purpose                        |
+|-------------------------|-----------------------------------|
+| **Python**              | Primary programming language       |
+| **NumPy/SciPy**         | Scientific computing               |
+| **Matplotlib/Seaborn/Plotly** | Data visualization           |
+| **SymPy**               | Symbolic mathematics               |
+| **Jupyter**             | Interactive notebooks              |
+| **MATLAB/Octave**       | Specialized simulations            |
 
 ---
 
@@ -121,7 +121,6 @@ git push origin feature/amazing-feature
 - [Paul's Online Math Notes](https://tutorial.math.lamar.edu/)
 - [Brilliant.org](https://brilliant.org/)
 
-
 ---
 
 ## 📜 License
@@ -140,6 +139,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**"Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding." – William Paul Thurston**
-
----
+<p align="center">
+    <b><i>"Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding." – William Paul Thurston</i></b>
+</p>
