@@ -3,6 +3,9 @@
 ![Multivariable Calculus](https://img.shields.io/badge/Math-Multivariable_Calculus-brightgreen)
 ![Progress](https://img.shields.io/badge/Status-In_Progress-yellow)
 
+> “The study of multivariable calculus is the gateway to understanding the geometry and dynamics of higher-dimensional spaces.”  
+> — Anonymous
+
 ---
 
 ## 📚 Topics Covered
